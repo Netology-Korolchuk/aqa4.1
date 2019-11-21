@@ -7,4 +7,5 @@
 Для формирования отчета:
 
 gradlew clean test allureReport
+
 gradlew allureServe
